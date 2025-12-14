@@ -47,7 +47,7 @@ export default function AboutSection() {
         <div className="absolute top-12 left-2">
           <h2 className="text-4xl font-bold">About Us</h2>
           <p className="mt-2 max-w-xl text-sm text-gray-300">
-            We are a real estate firm with over 20 years of expertise, and our
+            We are a real estate firm with over 10 years of expertise, and our
             main goal is to provide amazing locations to our partners.
           </p>
         </div>
