@@ -1,0 +1,36 @@
+// Team members data
+export const teamMembers = [
+  {
+    id: 1,
+    name: "Alfred Smith",
+    title: "Senior Agent",
+    image: "/professional-male-real-estate-agent.png",
+    bio: "20+ years in real estate with expertise in luxury properties",
+    specialization: "Luxury Homes",
+    listings: 45,
+    phone: "+01 234 567 890",
+    email: "alfred@solusi.com",
+  },
+  {
+    id: 2,
+    name: "Sarah Johnson",
+    title: "Property Consultant",
+    image: "/professional-woman-real-estate-consultant.jpg",
+    bio: "Expert in residential and commercial properties",
+    specialization: "Residential",
+    listings: 38,
+    phone: "+01 234 567 891",
+    email: "sarah@solusi.com",
+  },
+  {
+    id: 3,
+    name: "Emily Martinez",
+    title: "Real Estate Specialist",
+    image: "/professional-woman-real-estate-agent.png",
+    bio: "Specializing in investment properties and new developments",
+    specialization: "Investment",
+    listings: 32,
+    phone: "+01 234 567 892",
+    email: "emily@solusi.com",
+  },
+]
